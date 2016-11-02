@@ -1,0 +1,17 @@
+﻿Professional skills and experience
+
+Greate skills in C++03 / STL, OpenSSL (posted bug fix https://rt.openssl.org/Ticket/Display.html?id=3256&user=guest&pass=guest), TLS/1.2, HTTP/1.1
+Languages: C, C++14, Assembler (x86, TMS320, i8051, Analog Device Blackfin (MSA)), Java, Fortran, C++/CLI (Managed C++), PHP4, JavaScript
+OS: UNIX (Linux), Windows
+Development methodologies and technologies: Agile, SCRUM, Jira, Object-Oriented technologies, UML, eXtreme Programming (XP), Design Patterns, Test Driven Development (TDD), Subversion (svn), Git, Request Tracker, Review Board, Trac
+Environments: Eclipse (gcc), MS Visual Studio
+Networking: TCP/IPv4/IPv6, sockets, HTML4, XML, Web Services, UDDI, SOAP, RFC protocols and algorithms, parallel/network/distributed programming, X.502, MS CryptoAPI
+APIs: POSIX, WIN32, .NET framework
+Other Skills: High Performance Computing (HPC), Eigenvalue Decomposition (EVD) Algorithms, FPGA design, VLSI Design, Application-specific Processors (ASP) Design, Linear Algebra, Matrix Analysis, Pseudo-Euclidean/Pseudo-Unitary Transformations, ASIC, SoC, Hardware/Software co-design, JTAG, VHDL/Verilog, boost library, Financial Information eXchange (FIX) protocol, CDMI, Amazon S3, OpenStack APIs
+
+Links
+
+PhD Thesis: http://dlib.rsl.ru/01002305713 (in russian) https://drive.google.com/open?id=0B8bu_Q9mXCC9Q19KaTlpcWU4aU0 (in russian)
+Co-Inventor of Russian Federation Patent # 2168760 http://www1.fips.ru/fips_servl/fips_servlet?DB=RUPAT&DocNumber=2168760&TypeFile=html%C3%A2%EF%BF%BD%EF%BF%BD (in russian) https://drive.google.com/open?id=0B8bu_Q9mXCC9QzIxVTdLSG9fc28 (in russian)
+Registration certificate: Program "Imperia-2012" #2012618753 https://drive.google.com/open?id=0B8bu_Q9mXCC9SkJ3cEpvbXJSN29YVDhDbjRHWi1oX2gzTElF (in russian) / Database "Imperia-2012" #2012620994 https://drive.google.com/open?id=0B8bu_Q9mXCC9b2dVY1ZhSWpHazk3MkRUY25nNGRQeVJhQjBR (in russian)
+Co-inventor of international (WIPO) patent # WO2010129071 http://patentscope.wipo.int/search/en/WO2010129071 (WIPO) http://www.google.ch/patents/WO2010129071A1 (Google Patents) http://www.google.ch/patents/WO2010129071A1 https://drive.google.com/open?id=0B8bu_Q9mXCC9V3JjNHFoT1JMNk0 / of US (USPTO) patent # US 20120112728 A1 http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&p=1&f=G&l=50&d=PG01&S1=13381958&OS=13381958&RS=13381958#top (USPTO) http://www.google.com/patents/about?id=r1kOAgAAEBAJ&dq=54+ac+power&num=4&client=internal-uds&source=uds (Google Patents) https://drive.google.com/open?id=0B8bu_Q9mXCC9MU1DYWJweVQtYnM / # US 8975787 B2 http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8975787.PN.&OS=PN/8975787&RS=PN/8975787 (USPTO) http://www.google.ch/patents/US8975787 (Google Patents) https://drive.google.com/open?id=0B8bu_Q9mXCC9TEx4aUVNRk4zV28
