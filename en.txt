@@ -1,13 +1,13 @@
 ﻿Professional skills and experience
 
 Great skills in C++03 / STL, OpenSSL (posted bug fix https://rt.openssl.org/Ticket/Display.html?id=3256&user=guest&pass=guest), TLS/1.2
-Languages: C, C++11/14 (move semantics, atomic, threading, lambdas), Assembler (x86, TMS320, i8051, Analog Device Blackfin (MSA)), Java, Fortran, C++/CLI, PHP, JavaScript
-OS: UNIX(Linux), Windows
-Development methodologies and technologies: Agile, SCRUM, Jira, Object-Oriented technologies, UML, eXtreme Programming (XP), Design Patterns, Test Driven Development (TDD), Subversion (svn), Git, Request Tracker, Review Board, Trac
+Languages: C, C++11/14 (move semantics, threading, lambdas), Java, Assembler (x86, TMS320, i8051, Analog Device Blackfin (MSA)), C++/CLI, PHP, JavaScript, Fortran
+OS: Linux/UNIX, Windows
+Development methodologies and technologies: Jira, Object-Oriented technologies, UML, eXtreme Programming (XP), Design Patterns, Test Driven Development (TDD), Git, Subversion (svn), Request Tracker, Review Board, Trac
 Environments: Eclipse (gcc), MS Visual Studio
-Networking: TCP/IPv4/IPv6, sockets, HTML, XML, Web Services, UDDI, SOAP, RFC protocols and algorithms, parallel/network/distributed programming, X.502, MS CryptoAPI
+Networking: TCP/IPv4/IPv6, sockets, HTML, XML, REST, Web Services, UDDI, SOAP, RFC protocols and algorithms, X.502, MS CryptoAPI
 APIs: POSIX, WIN32, .NET framework
-Other Skills: High Performance Computing (HPC), Eigenvalue Decomposition (EVD) Algorithms, FPGA design, VLSI Design, Application-specific Processors (ASP) Design, Linear Algebra, Matrix Analysis, Pseudo-Euclidean/Pseudo-Unitary Transformations, ASIC, SoC, Hardware/Software co-design, JTAG, VHDL/Verilog, boost library, Financial Information eXchange (FIX) protocol
+Other Skills: multithreading, Eigenvalue Decomposition (EVD) Algorithms, FPGA design, VLSI Design, Application-specific Processors (ASP) Design, Linear Algebra, Matrix Analysis, Pseudo-Euclidean/Pseudo-Unitary Transformations, ASIC, SoC, Hardware/Software co-design, JTAG, VHDL/Verilog, boost library, Financial Information eXchange (FIX) protocol
 
 
 Experience
