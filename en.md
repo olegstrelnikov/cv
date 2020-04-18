@@ -1,4 +1,9 @@
-﻿Professional skills and experience
+﻿<img src="https://avatars3.githubusercontent.com/u/3495089" height="300" alt="[GitHub Avatar]" />
+
+Oleg Strelnikov (43 y.o.)
+=========================
+
+Professional skills and experience
 
 Great skills in C++03 / STL, OpenSSL (posted bug fix https://rt.openssl.org/Ticket/Display.html?id=3256&user=guest&pass=guest), TLS/1.2
 Languages: C, C++11/14 (move semantics, threading, lambdas), Java, Assembler (x86, TMS320, i8051, Analog Device Blackfin (MSA)), C++/CLI, PHP, JavaScript, Fortran
