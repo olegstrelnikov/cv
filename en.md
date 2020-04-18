@@ -1,30 +1,59 @@
-﻿<img src="https://avatars3.githubusercontent.com/u/3495089" height="300" alt="[GitHub Avatar]" />
+<img src="https://avatars3.githubusercontent.com/u/3495089" height="300" alt="[GitHub Avatar]" />
 
 Oleg Strelnikov (43 y.o.)
 =========================
 
+Location: Volgograd, Russia  
+E-mail: [oleg.strelnikov@gmail.com](mailto:oleg.strelnikov@gmail.com)  
+Skype: [olegstrelnikov](skype:olegstrelnikov)  
+GitHub: [https://github.com/olegstrelnikov](https://github.com/olegstrelnikov)  
+Stackoverflow: [https://stackoverflow.com/users/3879237/oleg](https://stackoverflow.com/users/3879237/oleg)
+
+Looking for remote working at Senior C++/C Engineer position. Expected salary $35/hour. Going to relocate to Montenegro during the further year
+
+---
+
 Professional skills and experience
+----------------------------------
 
-Great skills in C++03 / STL, OpenSSL (posted bug fix https://rt.openssl.org/Ticket/Display.html?id=3256&user=guest&pass=guest), TLS/1.2
-Languages: C, C++11/14 (move semantics, threading, lambdas), Java, Assembler (x86, TMS320, i8051, Analog Device Blackfin (MSA)), C++/CLI, PHP, JavaScript, Fortran
-OS: Linux/UNIX, Windows
-Development methodologies and technologies: Jira, Object-Oriented technologies, UML, eXtreme Programming (XP), Design Patterns, Test Driven Development (TDD), Git, Subversion (svn), Request Tracker, Review Board, Trac
-Environments: Eclipse (gcc), MS Visual Studio
-Networking: TCP/IPv4/IPv6, sockets, HTML, XML, REST, Web Services, UDDI, SOAP, RFC protocols and algorithms, X.502, MS CryptoAPI
-APIs: POSIX, WIN32, .NET framework
-Other Skills: multithreading, Eigenvalue Decomposition (EVD) Algorithms, FPGA design, VLSI Design, Application-specific Processors (ASP) Design, Linear Algebra, Matrix Analysis, Pseudo-Euclidean/Pseudo-Unitary Transformations, ASIC, SoC, Hardware/Software co-design, JTAG, VHDL/Verilog, boost library, Financial Information eXchange (FIX) protocol
+**Great skills** in C++03 / STL, C, C++11/14 (move semantics, threading, lambdas, variadic templates) (), OpenSSL (posted bug fix to [openssl request tracker](https://rt.openssl.org/Ticket/Display.html?id=3256&user=guest&pass=guest)), TLS/1.2, HTTP/1.1
 
+**Operating Systems:** Linux/UNIX, Windows
+
+**Development methodologies, technologies and tools:** Object-Oriented technologies, Test Driven Development (TDD), Design Patterns, Git, Jira, Jenkins
+
+**Isolation, Virtualization and Clouds:** docker, VMware vSphere/ESXi, KVM, VirtualBox, AWS, Microsoft Azure
+
+**Environments:** Eclipse (gcc), Microsoft Visual Studio
+
+**Networking:** TCP/IPv4/IPv6, sockets, RFC protocols and algorithms, X.502, Kerberos, XML, REST
+
+**APIs:** POSIX, Windows&nbsp;API
+
+**Gaining skills:** Python, C++17/20, CUDA, OpenCV, AVX
+
+**Other Skills:** boost, multithreading, Linear Algebra and Matrix Analysis
+
+**Former Skills:**
+- Java, Assembler (x86, x86_64, TMS320, i8080, i8051, Analog Device Blackfin (MSA)), C++/CLI, PHP, JavaScript, Fortran
+- UML, eXtreme Programming (XP), Subversion (svn), Request Tracker, Review Board, Trac
+- HTML, Web Services, UDDI, SOAP, Microsoft CryptoAPI
+- .NET API
+- Eigenvalue Decomposition (EVD) Algorithms, FPGA design, VLSI Design, Application-specific Processors (ASP) Design, Pseudo-Euclidean/Pseudo-Unitary Transformations, ASIC, SoC, Hardware/Software co-design, JTAG, VHDL/Verilog
+
+---
 
 Experience
+----------
 
 May 2011 — until now 
-6 years
-Virtual Instruments, Inc (former LoadDynamiX, Inc former SwiftTest, Inc)
+9 years
+Virtana, Inc (former Virtual Instruments, Inc - former LoadDynamiX, Inc - former SwiftTest, Inc)
 
-USA, http://loaddynamix.com
+USA, [http://virtana.com](http://virtana.com)
 Senior software engineer / team lead (outsourcing)
 The lead of the command developing the following protocols and APIs for the backend firmware:
-HTTP, HTTPS, Amazon, CDMI, OpenStack, Hadoop, TCP, IPv6, TLS/SSL
+HTTP, HTTPS, Amazon S3, CDMI, OpenStack, Hadoop, TCP, IPv6, TLS/SSL
 
 The Load DynamiX solution provides comprehensive storage workload modeling to enable unparalleled insight for storage architects and storage engineers. The solution supports all File, Block and Object storage protocols and comprises two primary components: Load DynamiX Enterprise and Load DynamiX Performance Validation Appliances
 The Load DynamiX appliances are used to generate traffic based on workload models and access patterns that have been configured by Load DynamiX Enterprise. The appliances are purpose-built devices with a software and hardware architecture that has been specifically engineered to cost-effectively generate massive traffic loads that can test the performance and scalability limits of any storage subsystem, including the highest-end flash storage systems
@@ -62,6 +91,7 @@ https://www.crunchbase.com/organization/hiplogic
 
 
 Links
+-----
 
 PhD Thesis: http://dlib.rsl.ru/01002305713 (in russian) https://drive.google.com/open?id=0B8bu_Q9mXCC9Q19KaTlpcWU4aU0 (in russian)
 Co-Inventor of Russian Federation Patent # 2168760 http://www1.fips.ru/fips_servl/fips_servlet?DB=RUPAT&DocNumber=2168760&TypeFile=html%C3%A2%EF%BF%BD%EF%BF%BD (in russian) https://drive.google.com/open?id=0B8bu_Q9mXCC9QzIxVTdLSG9fc28 (in russian)
