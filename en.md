@@ -16,7 +16,7 @@ Looking for remote working at Senior C++/C Engineer position. Expected salary $3
 Professional skills and experience
 ----------------------------------
 
-**Great skills** in C++03 / STL, C, C++11/14 (move semantics, threading, lambdas, variadic templates) (), OpenSSL (posted bug fix to [openssl request tracker](https://rt.openssl.org/Ticket/Display.html?id=3256&user=guest&pass=guest)), TLS/1.2, HTTP/1.1
+**Great skills** in C++03 / STL, C, C++11/14 (move semantics, threading, lambdas, variadic templates; reported [confirmed and fixed C++ standard breaks](https://developercommunity.visualstudio.com/users/145684/d6f204a3-5fcb-6a62-9bd2-25113c0f666a.html?itemsifollow) by Microsoft Visual Studio), OpenSSL (posted bug fix to [openssl request tracker](https://rt.openssl.org/Ticket/Display.html?id=3256&user=guest&pass=guest)), TLS/1.2, HTTP/1.1
 
 **Operating Systems:** Linux/UNIX, Windows
 
@@ -46,13 +46,11 @@ Professional skills and experience
 Experience
 ----------
 
-May 2011 — until now 
-9 years
-Virtana, Inc (former Virtual Instruments, Inc - former LoadDynamiX, Inc - former SwiftTest, Inc)
+May 2011 — until now (9 years)  
+[Virtana, Inc](http://virtana.com) (former Virtual Instruments, Inc - former LoadDynamiX, Inc - former SwiftTest, Inc)
 
-USA, [http://virtana.com](http://virtana.com)
-Senior software engineer / team lead (outsourcing)
-The lead of the command developing the following protocols and APIs for the backend firmware:
+Senior software engineer / team lead (outsourcing)  
+The lead of the team developing the following protocols and APIs for the backend firmware:  
 HTTP, HTTPS, Amazon S3, CDMI, OpenStack, Hadoop, TCP, IPv6, TLS/SSL
 
 The Load DynamiX solution provides comprehensive storage workload modeling to enable unparalleled insight for storage architects and storage engineers. The solution supports all File, Block and Object storage protocols and comprises two primary components: Load DynamiX Enterprise and Load DynamiX Performance Validation Appliances
@@ -60,35 +58,33 @@ The Load DynamiX appliances are used to generate traffic based on workload model
 The Ethernet based appliances come in a variety of configurations that currently support up to eight 1Gb Ethernet ports (1G Series Solution) or up to eight 10Gb Ethernet ports (10G Series Solution). Each appliance can be used to generate traffic for NFS, CIFS, SMB, iSCSI, HTTP, HTTPS, CDMI, or OpenStack Swift workloads
 http://www.loaddynamix.com/products/it-organizations/product-overview/
 
-September 2009 — until now 
-more than 7 years
-Open Systems LLC
+---
 
-Volgograd, http://open-sys.org
-Senior software engineer
+September 2009 — until now (10 years)  
+[Open Systems LLC](http://open-sys.org)
+
+Senior software engineer  
 C++ development, outsourcing
 
-September 2009 — April 2011
-1 year 8 months
-Digital Loggers, Inc
+---
 
-USA, http://digital-loggers.com
-Software engineer
+September 2009 — April 2011 (1 year 8 months)  
+[Digital Loggers, Inc](http://digital-loggers.com)
+
+Software engineer  
 Was involved in 2 projects (software):
 1. Power switch based on TI C2000. US and WIPO patents are obtained (included firmware developed by me)
 2. 8xT1 lines USB logger based on Analog Devices Blackfin BF548 DSP processor and DS26519 T1 transceiver. The program includes BF548 firmware and desktop USB driver and frontend (C#/MC++)
 
-April 2009 — August 2009
-5 months
-SperaSoft
+---
 
-USA, http://sperasoft.com
-Senior software developer
-Developing the mobile cross-platform framework to run platform-independent javascript applications at Windows Mobile, UIQ, S40. Was based on spidermonkey. Project included the eclipse plugin to develop applications called "mobics". Project was named HipLogic
+April 2009 — August 2009 (5 months)  
+[SperaSoft](http://sperasoft.com)
 
-https://www.linkedin.com/company-beta/409117?pathWildcard=409117
-https://www.crunchbase.com/organization/hiplogic
+Senior software developer  
+Developing the mobile cross-platform framework to run platform-independent javascript applications at Windows Mobile, UIQ, S40. Was based on spidermonkey. Project included the eclipse plugin to develop applications called "mobics". Project was named HipLogic: [linkedin](https://www.linkedin.com/company-beta/409117?pathWildcard=409117) [crunchbase](https://www.crunchbase.com/organization/hiplogic)
 
+---
 
 Links
 -----
