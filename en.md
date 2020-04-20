@@ -34,9 +34,9 @@ Professional skills and experience
 
 **Gaining skills:** Python, C++17/20, CUDA, OpenCV, AVX
 
-**Other Skills:** boost, multithreading, Linear Algebra and Matrix Analysis
+**Other skills:** boost, multithreading, Linear Algebra and Matrix Analysis
 
-**Former Skills:**
+**Former skills:**
 - Java, Assembler (x86, x86_64, TMS320, i8080, i8051, Analog Device Blackfin (MSA)), C++/CLI, PHP, JavaScript, Fortran
 - UML, eXtreme Programming (XP), Subversion (svn), Request Tracker, Review Board, Trac
 - HTML, Web Services, UDDI, SOAP, Microsoft CryptoAPI
@@ -51,15 +51,20 @@ Experience
 May 2011 — until now (9 years)  
 [Virtana, Inc](http://virtana.com) (former Virtual Instruments, Inc - former LoadDynamiX, Inc - former SwiftTest, Inc)
 
-Senior software engineer / team lead (outsourcing)  
 The lead of the team developing the following protocols and APIs for the backend firmware:  
 HTTP, HTTPS, Amazon S3, CDMI, OpenStack, Hadoop, TCP, IPv6, TLS/SSL
 
-- [Workload Wisdom](https://www.virtana.com/products/workloadwisdom/) (WW)
-The Load DynamiX solution provides comprehensive storage workload modeling to enable unparalleled insight for storage architects and storage engineers. The solution supports all File, Block and Object storage protocols and comprises two primary components: Load DynamiX Enterprise and Load DynamiX Performance Validation Appliances
-The Load DynamiX appliances are used to generate traffic based on workload models and access patterns that have been configured by Load DynamiX Enterprise. The appliances are purpose-built devices with a software and hardware architecture that has been specifically engineered to cost-effectively generate massive traffic loads that can test the performance and scalability limits of any storage subsystem, including the highest-end flash storage systems
-The Ethernet based appliances come in a variety of configurations that currently support up to eight 1Gb Ethernet ports (1G Series Solution) or up to eight 10Gb Ethernet ports (10G Series Solution). Each appliance can be used to generate traffic for NFS, CIFS, SMB, iSCSI, HTTP, HTTPS, CDMI, or OpenStack Swift workloads
-- [Cloud Migration Readiness](https://www.virtana.com/products/cloud-migration-readiness/) (CMR)
+Involved into the following projects:
+- [Workload Wisdom](https://www.virtana.com/products/workloadwisdom/) (WW)  
+Senior software engineer / team lead (outsourcing)  
+WW software is the automated workload acquisition, workload analysis, workload modeling, and workload performance analytics solution. It includes enterprise web-based UI, Windows-based frontend and Workload Generators.
+The Workload Generators (appliances) are used to generate traffic based on workload models and access patterns that have been configured by WW enterprise. The appliances are purpose-built devices with a software and hardware architecture that has been specifically engineered to cost-effectively generate massive traffic loads that can test the performance and scalability limits of any storage subsystem, including the highest-end flash storage systems. Physically appliance is a Linux high-end machine with custom memory kernel-space driver, custom TCP/IP stack implementation, custom Ethernet 1/10/25/40/100 Gbps user space drivers, custom event-driven application library and custom application-level protocol implementations: NFS, CIFS, SMB, iSCSI, HTTP, HTTPS, Amazon S3, CDMI, OpenStack.  
+My contribution is the development of HTTP, TLS, HTTPS and Amazon S3 protocols, some features of TCP, IPv4/IPv6 and Ethernet user-space driver. Details are provided in the Project Contributions section.
+
+- [Cloud Migration Readiness](https://www.virtana.com/products/cloud-migration-readiness/) (CMR)  
+Senior C engineer (outsourcing)  
+CMR is the service helping successfully reduce the cloud migration complexity, right-size cloud configurations, and validate cloud performance. CMR defines four distinct phases: 1. *Discover* application workload characteristics and identify dependencies between compute, networking and storage elements. 2. *Profiling* - distillation of hundreds or thousands of workloads into a small set of representative synthetic workloads that accurately characterize performance. 3. Accurate *Playback* of representative synthetic workloads in the cloud to select cost-optimal configurations and placements without compromising workload performance. 4. *Monitor* actual workloads post migration to the cloud to identify any unforeseen performance or capacity issues.  
+My contribution is the development of the backend playback (3rd phase) tool named getreal. It's a C multithreading cross-platform (windows and linux) application which generates CPU, RAM, networks and disk IO loads on the base of synthetic workloads passed as the input. Getreal uses low level Windows API and POSIX calls to generate the load and gather the statistics to feedback the generated load and prepare the report. Details are provided in the Project Contributions section.
 
 ---
 
@@ -86,6 +91,17 @@ April 2009 — August 2009 (5 months)
 
 Senior software developer  
 Developing the mobile cross-platform framework to run platform-independent javascript applications at Windows Mobile, UIQ, S40. Was based on spidermonkey. Project included the eclipse plugin to develop applications called "mobics". Project was named HipLogic: [linkedin](https://www.linkedin.com/company-beta/409117?pathWildcard=409117) [crunchbase](https://www.crunchbase.com/organization/hiplogic)
+
+---
+
+Projects
+--------
+
+1. WW Workload Generator
+2. Kerberos man-in-the-middle
+3. Getreal
+4. Advanced Test Runner (ATR)
+5. WebMoney Exchanger Robo
 
 ---
 
